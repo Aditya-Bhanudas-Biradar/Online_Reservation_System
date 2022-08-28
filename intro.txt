@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 My name is Parth
+=======
+my name is ojasi prabhu
+>>>>>>> c2b6c79bbbb314bff18a65793b46f7fc29fdd123
+
+my phone number is 9869377583
