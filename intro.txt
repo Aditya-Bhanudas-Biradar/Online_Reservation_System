@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 my name is ojasi prabhu
 =======
 My name is Parth
 >>>>>>> 39c47cc074cd603679e08de10c1f3d644351bd7e
+=======
+
+My name is Parth
+
+my name is ojasi prabhu
+
+
+my phone number is 9869377583
+>>>>>>> b2fe76dcac4c40f20e7b868652fe8fbd8aa75aec
