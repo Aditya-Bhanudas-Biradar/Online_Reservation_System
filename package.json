@@ -1,0 +1,19 @@
+{
+  "name": "ors",
+  "version": "1.0.0",
+  "description": "this is a mini project on online reservation system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Study-boii/Online_Reservation_System.git"
+  },
+  "author": "aditya parth ojasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Study-boii/Online_Reservation_System/issues"
+  },
+  "homepage": "https://github.com/Study-boii/Online_Reservation_System#readme"
+}
