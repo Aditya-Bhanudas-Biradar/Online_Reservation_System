@@ -12,19 +12,19 @@ mongoose.connect("mongodb://localhost:27017/mydb");
 
 var db = mongoose.connection;
 
-app.post("/reservation", (req, res)=>{
-    var name = req.body.first-name;
+//app.post("../reservation", (req, res)=>{
+ //   var name = req.body.first-name;
 
-    var data = {
-        "name": name
-    }
+  //  var data = {
+   //     "name": name
+  //  }
 
-    db.collection("users").insertOne(data, (err, doc)=>{
-        if(err){
-            throw err;
-        }
-        console.log("record inserted");
-})});
+   // db.collection("users").insertOne(data, (err, doc)=>{
+  //      if(err){
+   //         throw err;
+ //       }
+ //       console.log("record inserted");
+//})});
 
 
 
